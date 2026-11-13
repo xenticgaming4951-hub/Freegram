@@ -1,0 +1,6 @@
+{
+  "name": "Freegram",
+  "description": "Social photo, video, Reels, Stories, and real-time messaging Android app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
